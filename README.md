@@ -1,2 +1,2 @@
 # app
-this is an project abput shopping
+this is an project about shopping
